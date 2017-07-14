@@ -1,0 +1,10 @@
+{
+  "generator-mendix": {
+    "promptValues": {
+      "copyright": "Sage.Knight Computers",
+      "license": "MIT",
+      "author": "Sage",
+      "boilerplate": "appstore"
+    }
+  }
+}
